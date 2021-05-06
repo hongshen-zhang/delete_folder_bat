@@ -30,4 +30,4 @@ SET Obj[2].Value= "D:\IQIYI Video"
 ```
 # 3 运行结果
 
-运行结果.png
+![avatar](/运行结果.png)
