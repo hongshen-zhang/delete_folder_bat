@@ -1,4 +1,4 @@
-# [文件夹批删除bat文件](https://github.com/hongshen-zhang/delete_folder_bat)
+# [文件夹批删除bat](https://github.com/hongshen-zhang/delete_folder_bat)
 ![System](https://img.shields.io/badge/System-Windows-green.svg)
 
 Windows系统下，简单的文件夹批处理bat程序。作用为删除指定多个文件夹中的所有文件以及文件夹，但保留最大的空文件夹。
